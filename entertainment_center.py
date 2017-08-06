@@ -5,6 +5,7 @@ clicked plays a youtube trailer.
 import media
 import fresh_tomatoes
 
+
 def get_movie_list():
     """ This function creates a list of Movie objects and return it. """
 
